@@ -288,6 +288,10 @@ The scoring is based on: non-configurable and configurable parameters.
 
 - This can be any format (e.g. <http://localhost:32400>, <https://plex.domain.ltd>).
 
+- Must include http:// or https://
+
+- Do not include trailing "/"
+
 ### Plex Token
 
 1. Obtain a Plex Access Token:
